@@ -1,0 +1,42 @@
+# Citation metadata for mni-perllib (Citation File Format, https://citation-file-format.github.io/).
+# The author list comes from the commit history and from the history comments in the files.
+
+cff-version: 1.2.0
+title: mni-perllib
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Greg
+    family-names: Ward
+  - given-names: Steve M.
+    family-names: Robbins
+  - given-names: Vladimir
+    family-names: Fonov
+    email: vladimir.fonov@gmail.com
+    affiliation: McGill University
+    orcid: "https://orcid.org/0000-0003-3402-7749"
+  - given-names: Chris
+    family-names: Cocosco
+  - given-names: Claude
+    family-names: Lepage
+  - given-names: Andrew L.
+    family-names: Janke
+    orcid: "https://orcid.org/0000-0003-0547-5171"
+  - given-names: Gabriel A.
+    family-names: Devenyi
+    email: gdevenyi@gmail.com
+    affiliation: Douglas Mental Health University Institute
+    orcid: "https://orcid.org/0000-0002-7766-1187"
+repository-code: "https://github.com/BIC-MNI/mni-perllib"
+abstract: >-
+  The MNI Perl Library: Perl modules that help to write programs that run
+  other programs, with utilities for files, paths and MINC volumes.
+keywords:
+  - MINC
+  - Perl
+  - library
+  - medical imaging
+license:
+  - Artistic-1.0-Perl
+  - GPL-1.0-or-later
